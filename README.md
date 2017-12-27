@@ -1,8 +1,15 @@
 # n_movie_creator
 
 NMCBOTの使い方
+
 ①定期メッセージ
-NMCBOT_LOOP_SETTING>[何時間周期で発言させるか]:[発言内容]
+定期メッセージやjoin時の入会案内です。定期メッセージの設定は
+「NMCBOT_LOOP_SETTING>[時間]:[定期メッセージ内容]」
+と入力して、「設定完了！」と出ると設定終了、1時間単位で設定できます。
+
+②入会案内
+チャンネルjoin時の入会案内は入会フォームと会員スプレッドシートの表示
+及びチャンネルオーナー(Panda_NMC)へのメンションを設定しています。
 
 
 n_movie_creator is a chat bot built on the [Hubot][hubot] framework. It was
