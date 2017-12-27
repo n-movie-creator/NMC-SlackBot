@@ -60,7 +60,7 @@ module.exports = (robot) => {
   });
 
   robot.enter((msg) => {
-    msg.send(`${msg.message.user.profile.display_name}さん！\n N Movie Creatorにようこそ！\n入会はこちらです↓\nhttps://goo.gl/forms/4IxUk6SS07BcksL32\nメンバーの確認はこちらです↓\nhttps://goo.gl/G6HdNH\n@panda_nmc が会長ですので\n何かあれば連絡お願いします！`);
+    msg.send(`@${msg.message.user.profile.display_name} さん！\n N Movie Creatorにようこそ！\n入会はこちらです↓\nhttps://goo.gl/forms/4IxUk6SS07BcksL32\nメンバーの確認はこちらです↓\nhttps://goo.gl/G6HdNH\n@Panda_NMC が会長ですので\n何かあれば連絡お願いします！`);
   });
 
 }
