@@ -31,7 +31,7 @@ module.exports = (robot) => {
   robot.hear(/NMCBOT_LOOP_SETTING>/i, (msg) => {
     const USERNAME     = msg.message.user.name;
     const MESSAGE_TEXT = msg.message.text;
-    if ( USERNAME == "panda_nmc" ) {
+    if ( USERNAME == "panda" ) {
       const INFORMATION_TEXT = MESSAGE_TEXT.replace( "NMCBOT_LOOP_SETTING>" , "" );
       if ( INFORMATION_TEXT.indexOf( ":" ) == -1 ){
         msg.send("時間と内容を「:」で分けて！\nそれか半角にしてね！");
