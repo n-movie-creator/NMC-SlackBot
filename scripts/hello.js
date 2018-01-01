@@ -47,7 +47,7 @@ module.exports = (robot) => {
 
           LOOP = setInterval(function() {
             msg.send( LOOP_MESSAGE );
-          }, LOOP_TIME*360000);
+          }, LOOP_TIME*3600000);
 
           msg.send("設定完了しました！");
         } else {
