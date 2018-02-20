@@ -7,6 +7,6 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit",
-  "hubot-twitter-search"
+  "hubot-twitter-search",
+  "hubot-shipit"
 ]

@@ -21,6 +21,7 @@
     "hubot-shipit": "^0.2.1",
     "hubot-slack": "^4.4.0",
     "hubot-twitter-search": "^1.0.3",
+    "twit": "^2.2.9",
     "twitter": "^1.7.1"
   },
   "engines": {
