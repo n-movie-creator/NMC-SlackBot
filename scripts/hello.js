@@ -64,7 +64,11 @@ module.exports = (robot) => {
   });
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
 }
 >>>>>>> origin/master
+=======
+}
+>>>>>>> 6dcc65dbd01f7172e07f306c3286ee985be41cd9
