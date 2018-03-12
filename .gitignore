@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+.DS_Store*
+.hubot_history
+.bot_run.sh
+=======
+node_modules
+.DS_Store*
+.hubot_history
+run_bot.sh
+>>>>>>> origin/master

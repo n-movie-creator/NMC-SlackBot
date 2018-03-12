@@ -1,0 +1,16 @@
+[
+  "hubot-diagnostics",
+  "hubot-help",
+  "hubot-google-images",
+  "hubot-google-translate",
+  "hubot-pugme",
+  "hubot-maps",
+  "hubot-redis-brain",
+  "hubot-rules",
+  "hubot-twitter-search",
+<<<<<<< HEAD
+  "hubot-twitter-egosearch",
+=======
+>>>>>>> origin/master
+  "hubot-shipit"
+]
