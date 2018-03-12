@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 .DS_Store*
 .hubot_history
 .bot_run.sh
-=======
-node_modules
-.DS_Store*
-.hubot_history
-run_bot.sh
->>>>>>> origin/master
-=======
-node_modules
-.DS_Store*
-.hubot_history
-run_bot.sh
->>>>>>> 6dcc65dbd01f7172e07f306c3286ee985be41cd9

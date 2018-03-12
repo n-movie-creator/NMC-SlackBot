@@ -9,11 +9,7 @@ NMCBOTの使い方
 
 ②入会案内
 チャンネルjoin時の入会案内は入会フォームと会員スプレッドシートの表示
-<<<<<<< HEAD
-及びチャンネルオーナー(Panda_NMC)へのメンションを設定しています。　
-=======
 及びチャンネルオーナー(Panda_NMC)へのメンションを設定しています。
->>>>>>> 6dcc65dbd01f7172e07f306c3286ee985be41cd9
 
 
 n_movie_creator is a chat bot built on the [Hubot][hubot] framework. It was

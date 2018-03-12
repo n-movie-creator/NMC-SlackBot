@@ -63,12 +63,4 @@ module.exports = (robot) => {
     msg.send(`${msg.message.user.profile.display_name}さん！\n N Movie Creatorにようこそ！\n入会はこちらです↓\nhttps://goo.gl/forms/4IxUk6SS07BcksL32\nメンバーの確認はこちらです↓\nhttps://goo.gl/G6HdNH\n\n@panda が会長ですので\n何かあれば連絡お願いします！`);
   });
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> origin/master
-=======
-}
->>>>>>> 6dcc65dbd01f7172e07f306c3286ee985be41cd9

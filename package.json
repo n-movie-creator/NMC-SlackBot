@@ -20,13 +20,7 @@
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.1",
     "hubot-slack": "^4.4.0",
-<<<<<<< HEAD
-<<<<<<< HEAD
     "hubot-twitter-egosearch": "0.0.10",
-=======
->>>>>>> origin/master
-=======
->>>>>>> 6dcc65dbd01f7172e07f306c3286ee985be41cd9
     "hubot-twitter-search": "^1.0.3",
     "twit": "^2.2.9",
     "twitter": "^1.7.1"
